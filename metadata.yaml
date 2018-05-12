@@ -1,0 +1,45 @@
+_repo: Guingamor-Lanval-Tyolet-BisclaveretFour-lais-rendered-into-English-prose_46234
+_version: 0.1.0
+alternative_title: Guingamor, Launfal, Tyolet, The Were-Wolf
+contributor:
+  illustrator:
+    agent_name: Watts, Caroline (Illustrator)
+    alias: Watts, Caroline M.
+    gutenberg_agent_id: '43672'
+    url: http://www.gutenberg.org/2009/agents/43672
+  translator:
+    agent_name: Weston, Jessie L. (Jessie Laidlay)
+    alias: Weston, Jessie Laidlay
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '1384'
+    url: http://www.gutenberg.org/2009/agents/1384
+    wikipedia: http://en.wikipedia.org/wiki/Jessie_Weston
+covers:
+- cover_type: archival
+  image_path: 46234-h/images/cover-image.jpg
+creator:
+  author:
+    agent_name: Marie, de France, active 12th century
+    aliases:
+    - Maria, de Francia
+    - France, Marie de
+    gutenberg_agent_id: '3972'
+    url: http://www.gutenberg.org/2009/agents/3972
+    wikipedia: http://en.wikipedia.org/wiki/Marie_de_France
+description: ''
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Arthurian romances unrepresented in Malory's "Morte d'Arthur", no. 3
+subjects:
+- !lcsh 'Arthurian romances'
+- !lcsh 'Knights and knighthood -- Poetry'
+- !lcc 'PN'
+title: 'Guingamor, Lanval, Tyolet, Bisclaveret: Four lais rendered into English prose'
+url: http://www.gutenberg.org/ebooks/46234
